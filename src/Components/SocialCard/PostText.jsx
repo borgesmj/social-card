@@ -11,7 +11,11 @@ const PostText = () => {
 
   return (
     <p className="px-2">
-      <a href="" className="font-bold">
+      <a
+        href="https://github.com/borgesmj"
+        target="blank"
+        className="font-bold"
+      >
         borgesmj{" "}
       </a>
       {textOne}
